@@ -5,6 +5,7 @@ package com.tech;
 
 public class Library {
     public boolean someLibraryMethod() {
+        System.out.println("Well well well, how the turntables have turned.")
         return true;
     }
 }
